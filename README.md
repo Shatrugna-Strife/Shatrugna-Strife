@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name’s Shatrugna Rao Korukanti, I'm currently employed at Blue Pi, Gurugram as a Big Data Engineer, in an agile team, working mostly on developing microservices, with Java<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> and NodeJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>. I prefer to work in a smaller team, and see the direct impact I have on a project. I have deep passion in  Other than that I am more or less an ordinary guy with a passion for Design and 3d modelling. Is there anything else you’d like to know about my life at the moment? 📫 How to reach me: <a href="https://www.linkedin.com/in/shatrugna-rao-korukanti-1bb941225/">
+  <img alt="Shatrugna Rao LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+
 <!--
 **Shatrugna-Strife/Shatrugna-Strife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
