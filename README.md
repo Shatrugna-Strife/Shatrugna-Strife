@@ -1,10 +1,27 @@
 ### Hi there 👋
 
-My name’s Shatrugna Rao Korukanti, I'm currently employed at Blue Pi, Gurugram as a Big Data Engineer, in an agile team, working mostly on developing microservices, with Java<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> and NodeJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>. I prefer to work in a smaller team, and see the direct impact I have on a project. I have deep passion in  Other than that I am more or less an ordinary guy with a passion for Design and 3d modelling. Is there anything else you’d like to know about my life at the moment? 📫 How to reach me: <a href="https://www.linkedin.com/in/shatrugna-rao-korukanti-1bb941225/">
+My name’s Shatrugna Rao Korukanti, I'm currently employed at Blue Pi, Gurugram as a Big Data Engineer, in an agile team, working mostly on developing microservices, with Java<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> and NodeJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>. I prefer to work in a smaller team, and see the direct impact I have on a project. Other than that I am more or less an ordinary guy with a hobby of Design and 3d modelling. Is there anything else you’d like to know about my life at the moment? 📫 How to reach me: <a href="https://www.linkedin.com/in/shatrugna-rao-korukanti-1bb941225/">
   <img alt="Shatrugna Rao LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+https://github.com/Shatrugna-Strife/Shatrugna-Strife/blob/main/Developer.gif
 
+<img align="right" alt="Developer GIF" src="https://github.com/Shatrugna-Strife/Shatrugna-Strife/blob/main/Developer.gif?raw=true" width="500" height="320" />
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/52924476?s=200&v=4"></code>
+
+
+- 🔭 I’m currently working on ... A MERN stack Social Media App
 
 <!--
 **Shatrugna-Strife/Shatrugna-Strife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
