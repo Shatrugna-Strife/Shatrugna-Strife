@@ -21,7 +21,7 @@ https://github.com/Shatrugna-Strife/Shatrugna-Strife/blob/main/Developer.gif
 <code><img height="20" src="https://avatars.githubusercontent.com/u/52924476?s=200&v=4"></code>
 
 
-- 🔭 I’m currently working on ... A MERN stack Social Media App
+- 🔭 I’m currently working on a personal project ... A MERN stack based Social Media App
 
 <!--
 **Shatrugna-Strife/Shatrugna-Strife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
