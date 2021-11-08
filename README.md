@@ -4,8 +4,6 @@ My name’s Shatrugna Rao Korukanti, I'm currently employed at Blue Pi, Gurugram
   <img alt="Shatrugna Rao LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-https://github.com/Shatrugna-Strife/Shatrugna-Strife/blob/main/Developer.gif
-
 <img align="right" alt="Developer GIF" src="https://github.com/Shatrugna-Strife/Shatrugna-Strife/blob/main/Developer.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
